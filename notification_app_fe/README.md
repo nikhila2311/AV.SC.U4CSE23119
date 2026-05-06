@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# Campus Notification System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A full-stack campus notification management application developed for the Campus Hiring Evaluation Assessment.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+### Frontend
+- Responsive notification dashboard
+- Modern notification UI using Material UI
+- Filter notifications by:
+  - Placement
+  - Result
+  - Event
+- Mark notifications as viewed/unread
+- Mobile responsive design
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Backend
+- Express.js proxy server
+- Secure API integration
+- Handles authentication token
+- Prevents CORS issues
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Logging Middleware
+- Reusable logging utility
+- Sends logs to evaluation logging API
+- Structured logging implementation
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Tech Stack
 
-### `npm run build`
+## Frontend
+- React.js
+- Material UI
+- JavaScript
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Backend
+- Node.js
+- Express.js
+- Axios
+- CORS
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Folder Structure
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```text
+AV.SC.U4CSE23119/
+│
+├── logging_middleware/
+├── notification_app_be/
+├── notification_app_fe/
+├── notification_system_design.md
+├── README.md
+└── .gitignore
+<img width="594" height="785" alt="Screenshot 2026-05-06 153238" src="https://github.com/user-attachments/assets/a49263b4-4cfa-40d8-a3d3-b7a61c2f8e14" />
+<img width="526" height="753" alt="Screenshot 2026-05-06 153228" src="https://github.com/user-attachments/assets/8d0c4ea1-2462-4303-a7f5-c4b1a118c91a" />
+<img width="600" height="813" alt="Screenshot 2026-05-06 153144" src="https://github.com/user-attachments/assets/e383a652-e7e1-4811-bf71-8a00cedc30fa" />
+<img width="1910" height="961" alt="Screenshot 2026-05-06 152307" src="https://github.com/user-attachments/assets/15e9eb93-46c7-40f9-990b-456a95aa032b" />
+<img width="1888" height="975" alt="Screenshot 2026-05-06 152246" src="https://github.com/user-attachments/assets/65359c0b-c6a9-416a-9ea5-24470ee5bc88" />
+<img width="1893" height="971" alt="Screenshot 2026-05-06 152209" src="https://github.com/user-attachments/assets/c0aa2057-c872-4b07-9709-7d33f2da704c" />
+<img width="1897" height="974" alt="Screenshot 2026-05-06 152156" src="https://github.com/user-attachments/assets/ac7ffe0c-0524-412f-8a57-04c7378c206c" />
