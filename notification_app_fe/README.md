@@ -43,6 +43,13 @@ A full-stack campus notification management application developed for the Campus
 - CORS
 
 ---
+<img width="1910" height="961" alt="Screenshot 2026-05-06 152307" src="https://github.com/user-attachments/assets/e60add2c-2ac0-4332-b81d-46337af33a29" />
+<img width="594" height="785" alt="Screenshot 2026-05-06 153238" src="https://github.com/user-attachments/assets/8afbca82-96ba-484a-9486-89bbcff5d6b0" />
+<img width="526" height="753" alt="Screenshot 2026-05-06 153228" src="https://github.com/user-attachments/assets/15a21fd0-7c5f-440c-b2b6-50bb136f8efc" />
+<img width="600" height="813" alt="Screenshot 2026-05-06 153144" src="https://github.com/user-attachments/assets/ae0c90b3-046a-4e07-895d-e603394f4555" />
+<img width="1910" height="961" alt="Screenshot 2026-05-06 152307" src="https://github.com/user-attachments/assets/d60bf811-b823-460c-8095-d60a47fde8fd" />
+<img width="1888" height="975" alt="Screenshot 2026-05-06 152246" src="https://github.com/user-attachments/assets/a6182dbc-6077-47fc-b20b-95ec4f8003cd" />
+<img width="1893" height="971" alt="Screenshot 2026-05-06 152209" src="https://github.com/user-attachments/assets/c76e7836-917c-4a5b-a38e-e082b0c283d6" />
 
 # Folder Structure
 
@@ -55,10 +62,3 @@ AV.SC.U4CSE23119/
 ├── notification_system_design.md
 ├── README.md
 └── .gitignore
-<img width="594" height="785" alt="Screenshot 2026-05-06 153238" src="https://github.com/user-attachments/assets/a49263b4-4cfa-40d8-a3d3-b7a61c2f8e14" />
-<img width="526" height="753" alt="Screenshot 2026-05-06 153228" src="https://github.com/user-attachments/assets/8d0c4ea1-2462-4303-a7f5-c4b1a118c91a" />
-<img width="600" height="813" alt="Screenshot 2026-05-06 153144" src="https://github.com/user-attachments/assets/e383a652-e7e1-4811-bf71-8a00cedc30fa" />
-<img width="1910" height="961" alt="Screenshot 2026-05-06 152307" src="https://github.com/user-attachments/assets/15e9eb93-46c7-40f9-990b-456a95aa032b" />
-<img width="1888" height="975" alt="Screenshot 2026-05-06 152246" src="https://github.com/user-attachments/assets/65359c0b-c6a9-416a-9ea5-24470ee5bc88" />
-<img width="1893" height="971" alt="Screenshot 2026-05-06 152209" src="https://github.com/user-attachments/assets/c0aa2057-c872-4b07-9709-7d33f2da704c" />
-<img width="1897" height="974" alt="Screenshot 2026-05-06 152156" src="https://github.com/user-attachments/assets/ac7ffe0c-0524-412f-8a57-04c7378c206c" />
